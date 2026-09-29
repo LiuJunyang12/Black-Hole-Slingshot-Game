@@ -1,0 +1,6 @@
+{
+  "name": "Black Hole Slingshot - Astronomy Game",
+  "description": "Gravitational navigation simulator and black hole slingshot astronomy physics game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
